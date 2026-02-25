@@ -1,0 +1,9 @@
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\bin\Debug\eqbrd.exe.config
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\bin\Debug\eqbrd.exe
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\bin\Debug\eqbrd.pdb
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\obj\Debug\eqbrd.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\obj\Debug\eqbrd.Properties.Resources.resources
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\obj\Debug\eqbrd.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\obj\Debug\eqbrd.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\obj\Debug\eqbrd.exe
+C:\Users\yusuf\source\repos\eqbrd\eqbrd\obj\Debug\eqbrd.pdb
